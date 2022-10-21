@@ -1,2 +1,6 @@
 adding text
 adding some more text
+
+working with gui
+aw
+ameding text
