@@ -6,3 +6,5 @@ working with gui
 text to merge 
 
 creating conflict
+
+stashing stuff
