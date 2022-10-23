@@ -12,3 +12,5 @@ stashing stuff
 modify text from github
 
 hardcore repo
+
+returning remote repo to init state
