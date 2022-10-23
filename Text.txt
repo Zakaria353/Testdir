@@ -10,3 +10,5 @@ creating conflict
 stashing stuff
 
 modify text from github
+
+hardcore repo
